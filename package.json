@@ -1,0 +1,26 @@
+{
+  "name": "github-docs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs": "jsdoc -c jsdoc.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oliven1212/github-docs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/oliven1212/github-docs/issues"
+  },
+  "homepage": "https://github.com/oliven1212/github-docs#readme",
+  "devDependencies": {
+    "docdash": "^2.0.2",
+    "jsdoc": "^4.0.5"
+  }
+}
