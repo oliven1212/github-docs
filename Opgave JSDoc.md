@@ -195,7 +195,7 @@ Opdater `jsdoc.json` til at inkludere tutorials:
         "recurse": true,
         "tutorials": "./tutorials"
     }
-}
+} 
 ```
 
 Du kan også linke til et dokument direkte fra koden:
